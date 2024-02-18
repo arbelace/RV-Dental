@@ -13,6 +13,7 @@ include('./includes/header.php');
                 <a type="button" href="appointment.php" class="btn btn-secondary"><small>Make an appointment <i class="fa-regular fa-calendar-check"></i></small></a>
             </div>
         </div>
+        test
     </div>
 </section>
 
