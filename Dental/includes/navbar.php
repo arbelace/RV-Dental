@@ -5,7 +5,7 @@
     <div class="nav__menu mt-lg-3" id="nav-menu">
       <ul class="nav__list ">
         <li class="nav__item"><a href="index.php" class="nav__link active-link">Home</a></li>
-        <li class="nav__item text-white"><a href="503.php" class="nav__link">About</a></li>
+        <li class="nav__item text-white"><a href="about.php" class="nav__link">About</a></li>
         <li class="nav__item text-white"><a href="503.php" class="nav__link">Contact Us</a></li>
 
         <?php
